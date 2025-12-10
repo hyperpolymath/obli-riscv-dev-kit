@@ -1,0 +1,36 @@
+= obli-riscv-dev-kit - Citation Guide
+:toc:
+
+== BibTeX
+
+[source,bibtex]
+----
+@software{obli-riscv-dev-kit_2025,
+  author = {Polymath, Hyper},
+  title = {obli-riscv-dev-kit},
+  year = {2025},
+  url = {https://github.com/hyperpolymath/obli-riscv-dev-kit},
+  license = {AGPL-3.0-or-later}
+}
+----
+
+== Harvard Style
+
+Polymath, H. (2025) _obli-riscv-dev-kit_ [Computer software]. Available at: https://github.com/hyperpolymath/obli-riscv-dev-kit
+
+== OSCOLA
+
+Hyper Polymath, 'obli-riscv-dev-kit' (2025) <https://github.com/hyperpolymath/obli-riscv-dev-kit>
+
+== MLA
+
+Polymath, Hyper. "obli-riscv-dev-kit." 2025, github.com/hyperpolymath/obli-riscv-dev-kit.
+
+== APA 7
+
+Polymath, H. (2025). _obli-riscv-dev-kit_ [Computer software]. GitHub. https://github.com/hyperpolymath/obli-riscv-dev-kit
+
+== See Also
+
+* link:../CITATION.cff[CITATION.cff]
+* link:../codemeta.json[codemeta.json]
